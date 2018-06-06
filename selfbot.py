@@ -43,7 +43,7 @@ import io
 
 class Selfbot(commands.Bot):
     '''
-    Custom Client for selfbot.py - Made by verix#7200
+    Custom Client for kudaplay.py - Dibuat Oleh : 「VĢ」么MILK#5330
     '''
     _mentions_transforms = {
         '@everyone': '@\u200beveryone',
@@ -151,12 +151,12 @@ class Selfbot(commands.Bot):
         ---------------
         Client is ready!
         ---------------
-        Author: verixx#7220
+        Author: MamangGharox >:( 
         ---------------
         Logged in as: {self.user}
         User ID: {self.user.id}
         ---------------
-        Current Version: 1.0.0
+        Current Version: 2.0.0
         ---------------
         '''))
         
