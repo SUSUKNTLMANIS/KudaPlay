@@ -1,8 +1,8 @@
 {
-  "name": "selfbot.py",
+  "name": "kudaplay.py",
   "description": "discord selfbot",
-  "website": "http://selfbot-py.tk",
-  "repository": "https://github.com/verixx/selfbot.py",
+  "website": "NO WEBSITE",
+  "repository": "PRIVATE",
   "env": {
     "TOKEN": {
         "description": "Discord token used to log in",
